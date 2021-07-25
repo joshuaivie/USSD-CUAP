@@ -1,0 +1,16 @@
+{
+  "name": "ussd-cuap",
+  "version": "1.0.0",
+  "description": "A USSD application implemented in NodeJs to communicate with the USSDC over TCP/IP using the CUAP(China Mobile USSD Application Protocol).",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "iconv-lite": "0.x",
+    "safer-buffer": ">= 2.1.2 < 3"
+  },
+  "author": "",
+  "license": "ISC"
+}
